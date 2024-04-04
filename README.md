@@ -21,3 +21,8 @@ https://github.com/openai/triton/tree/main/docs/meetups
 ## Monthly meetingup videos
 
 https://www.youtube.com/playlist?list=PLc_vA1r0qoiSIPc94zs0qw82ZezIlEVI7
+
+
+# Trition Related Projects
+
+https://github.com/microsoft/triton-shared
