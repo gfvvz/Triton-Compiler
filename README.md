@@ -17,8 +17,16 @@ Trition slides are collected from multiple sources.
 
 # Trition Projects
 
+## Triton Code
+
 | Trition Projects | Homepage |
 |------|------|
 | **Triton Official Project** | https://github.com/openai/triton |
 | **Microsoft Trition Shared** | https://github.com/microsoft/triton-shared |
 | **JAX Triton** | https://github.com/jax-ml/jax-triton |
+
+## Triton Ramp Ups
+| Projects | Github | Discord |
+|--------|------|------|
+| Triton Puzzles | https://github.com/srush/Triton-Puzzles | https://discordapp.com/channels/1189498204333543425/1219683012707487794 |
+| Triton Viz | https://github.com/Deep-Learning-Profiling-Tools/triton-viz | https://discordapp.com/channels/1189498204333543425/1225499141241573447 |
