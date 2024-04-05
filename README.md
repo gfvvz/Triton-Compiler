@@ -28,6 +28,10 @@ Trition slides are collected from multiple sources.
 ## Triton Ramp Ups
 | Projects | Github | Discord |
 |--------|------|------|
-| Triton Puzzles | https://github.com/srush/Triton-Puzzles | https://discordapp.com/channels/1189498204333543425/1219683012707487794 |
-| Triton Viz | https://github.com/Deep-Learning-Profiling-Tools/triton-viz | https://discordapp.com/channels/1189498204333543425/1225499141241573447 |
-| Triton | NA | https://discordapp.com/channels/1189498204333543425/1189607595451895918 |
+| Triton Puzzles | https://github.com/srush/Triton-Puzzles | [Triton Puzzles Discord](https://discordapp.com/channels/1189498204333543425/1219683012707487794) |
+| Triton Viz | https://github.com/Deep-Learning-Profiling-Tools/triton-viz | [Triton Viz Discord](https://discordapp.com/channels/1189498204333543425/1225499141241573447) |
+
+## Triton Discussions
+| Projects | Discord | Discord First Message |
+|--------|------|------|
+| Triton | [Discord](https://discordapp.com/channels/1189498204333543425/1189607595451895918) | [Discord First Message](https://discordapp.com/channels/1189498204333543425/1189607595451895918/1189862995422105640) |
