@@ -35,3 +35,8 @@ Trition slides are collected from multiple sources.
 | Projects | Discord | Discord First Message |
 |--------|------|------|
 | Triton | [Discord](https://discordapp.com/channels/1189498204333543425/1189607595451895918) | [Discord First Message](https://discordapp.com/channels/1189498204333543425/1189607595451895918/1189862995422105640) |
+
+## Triton Coding
+| Projects | Linkage |
+|--------|------|
+| Accelerated Computing Online | https://www.acceleratedcomputingonline.com/ |
