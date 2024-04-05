@@ -30,3 +30,4 @@ Trition slides are collected from multiple sources.
 |--------|------|------|
 | Triton Puzzles | https://github.com/srush/Triton-Puzzles | https://discordapp.com/channels/1189498204333543425/1219683012707487794 |
 | Triton Viz | https://github.com/Deep-Learning-Profiling-Tools/triton-viz | https://discordapp.com/channels/1189498204333543425/1225499141241573447 |
+| Triton | NA | https://discordapp.com/channels/1189498204333543425/1189607595451895918 |
