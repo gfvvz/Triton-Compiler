@@ -2,8 +2,7 @@
   <img src="https://cdn.openai.com/triton/assets/triton-logo.png" alt="Triton logo" width="88" height="100">
 </div>
 
-# Trition Materials
-Trition slides are collected from multiple sources.
+# Trition
 
 ## Triton Conference 2023
 
