@@ -24,17 +24,22 @@
 |------|------|
 | https://triton-lang.slack.com | [Requests for Invitation to Slack](https://github.com/openai/triton/discussions/2329) |
 
-# Trition Projects
+# Trition related Projects
 
-## Triton Code
+## Triton and Triton based Compiler
 
-| Trition Projects | Homepage |
+| Projects | Homepage |
 |------|------|
 | Triton Official Project | https://github.com/openai/triton |
 | Microsoft Trition Shared | https://github.com/microsoft/triton-shared |
 | JAX Triton | https://github.com/jax-ml/jax-triton |
 
-# Triton Ramp Ups
+## Projects Using Triton
+| Projects | Homepage |
+|------|------|
+
+
+# Ramp Ups and Discussions
 
 ## Discord Channels
 
