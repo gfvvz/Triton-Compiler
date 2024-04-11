@@ -34,7 +34,10 @@
 | Microsoft Trition Shared | https://github.com/microsoft/triton-shared |
 | JAX Triton | https://github.com/jax-ml/jax-triton |
 
-## Triton Ramp Ups
+# Triton Ramp Ups
+
+## Discord Channels
+
 | Projects | Github | Discord |
 |--------|------|------|
 | Triton Puzzles | https://github.com/srush/Triton-Puzzles | [Triton Puzzles Discord](https://discordapp.com/channels/1189498204333543425/1219683012707487794) |
