@@ -2,7 +2,7 @@
   <img src="https://cdn.openai.com/triton/assets/triton-logo.png" alt="Triton logo" width="88" height="100">
 </div>
 
-# Trition
+# Triton
 
 ## Triton Conference
 
