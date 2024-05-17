@@ -31,6 +31,7 @@
 | Projects | Homepage |
 |------|------|
 | Triton Official Project | https://github.com/openai/triton |
+| Triton CPU | https://github.com/triton-lang/triton-cpu |
 | Experimental CPU Backend for Triton | https://github.com/pytorch-labs/triton-cpu |
 | Microsoft Trition Shared | https://github.com/microsoft/triton-shared |
 | JAX Triton | https://github.com/jax-ml/jax-triton |
