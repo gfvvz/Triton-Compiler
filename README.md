@@ -41,6 +41,21 @@
 |------|------|
 
 
+# Triton in China
+
+## Triton Meetingups
+
+| Meetings | Records |
+|------|------|
+| Triton中国生态Meetup（第一期） | https://meeting.tencent.com/user-center/shared-record-info?id=DSRXZNVUrR5C7S2pP9Is1qMwksZdM4VGtGo_XWR4jEc&from=3&record_type=3 |
+
+## Triton Projects
+
+| Projects | Homepage |
+|------|------|
+| FlagGems | https://github.com/FlagOpen/FlagGems |
+| FlagGems | [https://github.com/FlagOpen/FlagGems](https://github.com/FlagOpen/FlagAttention) |
+
 # Ramp Ups and Discussions
 
 ## Discord Channels
