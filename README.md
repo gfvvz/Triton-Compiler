@@ -40,7 +40,6 @@
 | Projects | Homepage |
 |------|------|
 
-
 # Triton in China
 
 ## Triton Meetingups
